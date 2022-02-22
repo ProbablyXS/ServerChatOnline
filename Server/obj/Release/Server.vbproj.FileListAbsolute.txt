@@ -1,0 +1,9 @@
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Release\Server.exe.config
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Release\Server.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Release\Server.pdb
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Release\Server.vbprojAssemblyReference.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Release\Server.Resources.resources
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Release\Server.vbproj.GenerateResource.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Release\Server.vbproj.CoreCompileInputs.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Release\Server.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Release\Server.pdb

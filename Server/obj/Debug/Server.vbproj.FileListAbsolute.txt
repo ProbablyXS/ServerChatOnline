@@ -1,0 +1,50 @@
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.exe.config
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.exe
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.pdb
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.xml
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.Resources.resources
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.vbproj.GenerateResource.Cache
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.exe
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.xml
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.pdb
+D:\Carlosky\My Development\4.6\Server\Server\bin\Debug\Server.exe.config
+D:\Carlosky\My Development\4.6\Server\Server\obj\Debug\Server.exe
+D:\Carlosky\My Development\4.6\Server\Server\obj\Debug\Server.xml
+D:\Carlosky\My Development\4.6\Server\Server\obj\Debug\Server.pdb
+D:\Carlosky\My Development\4.6\Server\Server\bin\Debug\Server.exe
+D:\Carlosky\My Development\4.6\Server\Server\bin\Debug\Server.pdb
+D:\Carlosky\My Development\4.6\Server\Server\bin\Debug\Server.xml
+D:\Carlosky\My Development\4.6\Server\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+D:\Carlosky\My Development\4.6\Server\Server\obj\Debug\Server.Resources.resources
+D:\Carlosky\My Development\4.6\Server\Server\obj\Debug\Server.vbproj.GenerateResource.Cache
+G:\Téléchargements\ServerClientConsole\Server\Server\bin\Debug\Server.exe.config
+G:\Téléchargements\ServerClientConsole\Server\Server\obj\Debug\Server.exe
+G:\Téléchargements\ServerClientConsole\Server\Server\obj\Debug\Server.xml
+G:\Téléchargements\ServerClientConsole\Server\Server\obj\Debug\Server.pdb
+G:\Téléchargements\ServerClientConsole\Server\Server\bin\Debug\Server.exe
+G:\Téléchargements\ServerClientConsole\Server\Server\bin\Debug\Server.pdb
+G:\Téléchargements\ServerClientConsole\Server\Server\bin\Debug\Server.xml
+G:\Téléchargements\ServerClientConsole\Server\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+G:\Téléchargements\ServerClientConsole\Server\Server\obj\Debug\Server.Resources.resources
+G:\Téléchargements\ServerClientConsole\Server\Server\obj\Debug\Server.vbproj.GenerateResource.Cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.exe.config
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.exe
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.pdb
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.xml
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.vbprojAssemblyReference.cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.Resources.resources
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.vbproj.GenerateResource.cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.vbproj.CoreCompileInputs.cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.exe
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.xml
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.pdb
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.exe.config
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\bin\Debug\Server.pdb
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.vbprojAssemblyReference.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.Resources.resources
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.vbproj.GenerateResource.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.vbproj.CoreCompileInputs.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ServerClientConsole\Server\Server\obj\Debug\Server.pdb
